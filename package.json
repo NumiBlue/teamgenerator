@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NumiBlue/teamgenerator/issues"
   },
-  "homepage": "https://github.com/NumiBlue/teamgenerator#readme"
+  "homepage": "https://github.com/NumiBlue/teamgenerator#readme",
+  "dependencies": {
+    "yargs": "^17.1.1-candidate.0"
+  }
 }
