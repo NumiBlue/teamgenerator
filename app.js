@@ -1,9 +1,9 @@
-const inquirer = require("inquirer");
-const fs = require("fs");
-const generateTeam = require("./index.js");
-const Engineer = require("./lib/Engineer");
-const Intern = require("./lib/Intern");
-const Manager = require("./lib/Manager");
+let inquirer = require("inquirer");
+let fs = require("fs");
+let generateTeam = require("./index.js");
+let Engineer = require("./lib/Engineer");
+let Intern = require("./lib/Intern");
+let Manager = require("./lib/Manager");
 
 let newStaff = [];
 
